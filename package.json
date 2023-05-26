@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2",
     "node-telegram-bot-api": "^0.61.0",
     "onoff": "^6.0.3",
     "play-sound": "^1.1.5"
